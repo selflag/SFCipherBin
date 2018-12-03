@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-    <file version="1.0.1" name="SFCipher.exe">
-        <log>第一版发布。</log>
-        <md5>230527A01F041DFE102740CB44AF020B</md5>
+    <file version="1.0.2" name="SFCipher.exe">
+        <log>1、调整文件打开方式；2、新增文件拖拽方式打开；3、优化部分操作；4、优化xml自动生成方式。</log>
+        <md5>43E6946EE9A356ABD0AAD87FCDB894D5</md5>
     </file>
 </filelist>
