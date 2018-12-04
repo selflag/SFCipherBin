@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
     <file version="1.0.2" name="SFCipher.exe">
-        <log>1、调整文件打开方式；2、新增文件拖拽方式打开；3、优化部分操作；4、优化xml自动生成方式。</log>
-        <md5>76430BF427D0957250D6DE005C26B3CA</md5>
+        <log>1、调整文件打开方式；
+2、新增文件拖拽方式打开；
+3、优化部分操作；
+4、优化xml自动生成方式；
+5、更换程序打包方式。</log>
+        <md5>4063DBB80A8D0021FD02284ED9580DB1</md5>
     </file>
 </filelist>
