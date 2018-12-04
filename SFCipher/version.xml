@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-    <file version="1.0.3" name="SFCipher.exe">
-        <log>1、修复下载重启脚本BUG。</log>
-        <md5>5FC830EED4E8E809416201AB8AE41466</md5>
+    <file version="1.0.4" name="SFCipher.exe">
+        <log>
+1、修复单向加密算法点击“计算”异常退出；
+2、新增CRC32校验算法。</log>
+        <md5>B7304A9E7C11A7DE0460AAC090B96B9C</md5>
     </file>
 </filelist>
