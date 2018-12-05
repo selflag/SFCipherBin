@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <filelist>
-    <file version="1.0.4" name="SFCipher.exe">
+    <file version="1.0.5" name="SFCipher.exe">
         <log>
-1、修复单向加密算法点击“计算”异常退出；
-2、新增CRC32校验算法。</log>
-        <md5>B7304A9E7C11A7DE0460AAC090B96B9C</md5>
+1、修复软件在中文路径下不能自动更新。
+2、优化程序更新界面的取消按钮和关闭按钮。</log>
+        <md5>D52D6D678600C920E2942289C74086D2</md5>
     </file>
 </filelist>

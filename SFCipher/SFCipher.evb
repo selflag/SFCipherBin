@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="windows-1252"?>
 <>
-  <InputFile>D:\QtProjects\SFCipher\src\SFCipherBin\SFCipher\SFCipher.exe</InputFile>
-  <OutputFile>D:\QtProjects\SFCipher\src\SFCipherBin\SFCipher\SFCipher_boxed.exe</OutputFile>
+  <InputFile>D:\User\Zhoujg\QTapp\SFCipher\src\SFCipherBin\SFCipher\SFCipher.exe</InputFile>
+  <OutputFile>D:\User\Zhoujg\QTapp\SFCipher\src\SFCipherBin\SFCipher\SFCipher_boxed.exe</OutputFile>
   <Files>
     <Enabled>True</Enabled>
     <DeleteExtractedOnExit>False</DeleteExtractedOnExit>
@@ -18,7 +18,7 @@
           <File>
             <Type>2</Type>
             <Name>libeay32.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\libeay32.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\libeay32.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -30,7 +30,7 @@
           <File>
             <Type>2</Type>
             <Name>libgcc_s_dw2-1.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\libgcc_s_dw2-1.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\libgcc_s_dw2-1.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -42,7 +42,7 @@
           <File>
             <Type>2</Type>
             <Name>mingwm10.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\mingwm10.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\mingwm10.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -54,7 +54,7 @@
           <File>
             <Type>2</Type>
             <Name>msvcr120.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\msvcr120.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\msvcr120.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -66,7 +66,7 @@
           <File>
             <Type>2</Type>
             <Name>QtCore4.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\QtCore4.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\QtCore4.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -78,7 +78,7 @@
           <File>
             <Type>2</Type>
             <Name>QtGui4.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\QtGui4.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\QtGui4.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -90,7 +90,7 @@
           <File>
             <Type>2</Type>
             <Name>QtNetwork4.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\QtNetwork4.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\QtNetwork4.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -102,7 +102,7 @@
           <File>
             <Type>2</Type>
             <Name>QtXml4.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\QtXml4.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\QtXml4.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -114,7 +114,7 @@
           <File>
             <Type>2</Type>
             <Name>quazip.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\quazip.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\quazip.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
@@ -126,7 +126,7 @@
           <File>
             <Type>2</Type>
             <Name>ssleay32.dll</Name>
-            <File>D:\QtProjects\SFCipher\src\lib\RunLib\ssleay32.dll</File>
+            <File>D:\User\Zhoujg\QTapp\SFCipher\src\lib\RunLib\ssleay32.dll</File>
             <ActiveX>False</ActiveX>
             <ActiveXInstall>False</ActiveXInstall>
             <Action>0</Action>
